@@ -1,1 +1,1 @@
-total months: $86
+Total Months: 86Total Profits: 38382578Max Monthly Profit: 1170593Max Month: Feb-2012Min Monthly Profit: 1170593Min Month: Sep-2013Total Profits: 446309
